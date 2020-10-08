@@ -12,3 +12,4 @@ jobs:
         run: sudo apt-get -y install cppcheck
       - name: Cppcheck code
         run: cppcheck 
+        
