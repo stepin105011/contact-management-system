@@ -273,7 +273,7 @@ void mainmenu(void)
 
             fclose(fp);
 
-            printf("\n\t\t Do you want to add search another contact ?[Y/N]:");
+            printf("\n\t\t Do you want to search another contact ?[Y/N]:");
 
             scanf("%s",&answer);
 
