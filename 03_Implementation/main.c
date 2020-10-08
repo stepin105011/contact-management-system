@@ -40,7 +40,7 @@ void main()
         {
 		printf("\nSorry you have entered the wrong username and password for four times!!!");
 
-		getch();
+		//getch();
 
 	}
 }
@@ -200,7 +200,7 @@ void mainmenu(void)
             {
                 printf("=========================================================== [%c]-(%d)\n\n",i-32,found);
 
-                getch();
+                //getch();
             }
 
             fclose(fp);
@@ -260,7 +260,7 @@ void mainmenu(void)
 
                         printf("..::Press any key to continue...");
 
-                        getch();
+                       // getch();
 
                     }
 
