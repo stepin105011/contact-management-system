@@ -5,7 +5,7 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/ contact.c\
+src/contact.c\
 
 # All test source files
 TEST_SRC = src/contact.c\
