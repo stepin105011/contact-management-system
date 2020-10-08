@@ -20,4 +20,3 @@ void search_contact();
 void list_contact();
 
 #endif // CONTACT_H_INCLUDED
-
