@@ -14,7 +14,7 @@
 int login();
 void mainmenu();
 void add_contact();
-void delete_books();
+void delete_contact();
 void edit_contact();
 void search_contact();
 void list_contact();
