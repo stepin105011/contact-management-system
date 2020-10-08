@@ -30,7 +30,6 @@ void testlogin(void) {
   CU_ASSERT(1 == login("user","pass"));
   CU_ASSERT(1 == login("wrong","wrong"));//dummy fail case
 
-
 }
 
 
